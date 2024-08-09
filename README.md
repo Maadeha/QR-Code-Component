@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned how to use flexbox in a way that it works with me instead of against me.
+I learned how to use Flexbox in a way that works with me instead of against me.
 
 
 ```css
@@ -34,13 +34,13 @@ body{
 }
 ```
 
-I orginially was going to add this to the .container class, but then I remebered that flexbox works on a parent and child sort of relationship. So only the items INSIDE the main card was getting centered instead of the actual card itself. To solve this, I had to use the parent container of my qr code container, which was the body.
+I originally was going to add this to the .container class, but then I remembered that Flexbox works on a parent-and-child sort of relationship. So only the items INSIDE the main card was getting centred instead of the actual card itself. To solve this, I had to use the parent container of my QR code container, which was the body.
 
 ### Continued development
 
-In my coming projects, I want to learn more about media querries and responsive websties as a whole. It would also help my future websites become accessible to a wider audience.
+In my coming projects, I want to learn more about media queries and responsive websites as a whole. It would also help my future websites become accessible to a wider audience.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/maadeha)
+- Frontend Mentor - [@Maadeha](https://www.frontendmentor.io/profile/maadeha)
 
